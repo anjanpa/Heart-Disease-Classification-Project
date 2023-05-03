@@ -1,5 +1,6 @@
 # HEART-DISEASE-CLASSIFICATION-PROJECT
 ITS A PROJECT TO CLASSIFY WHETHER THE PATIENT HAS HEART DISEASE OR NOT.
 
-![alt text](https://github.com/anjanpa/CLASSIFICATION-PROJECT-Heart-Disease-Classification/master/heart_file.png?raw=true)
 
+
+![heart_file](https://user-images.githubusercontent.com/64411478/235894048-0a6bd697-0e3e-4a48-bc76-f70f48f4230e.png)
